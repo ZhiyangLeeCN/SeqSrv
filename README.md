@@ -1,8 +1,11 @@
 ## SeqSrv
 ### Getting Started
+1.Run server
 ```
 ./seq_srv -node-id=1
 ```
+2.Request http://127.0.0.1:8181
+
 |     parameter   |   description    |
 | --------------- | ---------:|
 |-bind-addr|SeqSrv listen address(default:0.0.0:8181)|
