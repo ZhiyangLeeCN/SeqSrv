@@ -4,7 +4,7 @@
 ```
 ./seq_srv -node-id=1
 ```
-2.Request http://127.0.0.1:8181
+2.Request http://127.0.0.1:8181/seq/next
 
 |     parameter   |   description    |
 | --------------- | ---------:|
